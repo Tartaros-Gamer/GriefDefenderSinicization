@@ -21,4 +21,4 @@ Standard Translation Comparison Table:
 | ---- | ---- |
 | claim | 领地 |
 | wildness | 野外 |
-| flag | 领地属性？|
+| flag | 标签 |
